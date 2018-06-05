@@ -11,7 +11,7 @@ Um package do NPM que faz buscas no site da [Mozilla Developer Network](https://
 [![English README](https://img.shields.io/badge/Language-EN-blue.svg?longCache=true&style=for-the-badge)](../../README.md)
 [![Portuguese README](https://img.shields.io/badge/Linguagem-PT-green.svg?longCache=true&style=for-the-badge)](./README_PT.md)
 
-[![npm](https://img.shields.io/npm/v/MDNSearch.svg?style=flat-square)](https://www.npmjs.com/package/MDNSearch)
+[![npm](https://img.shields.io/npm/v/mdn-search-docs.svg?style=flat-square)](https://www.npmjs.com/package/mdn-search-docs)
 [![Build Status](https://travis-ci.org/Fazendaaa/MDNSearch.svg?branch=master)](https://travis-ci.org/Fazendaaa/MDNSearch)
 [![Coverage Status](https://coveralls.io/repos/github/Fazendaaa/MDNSearch/badge.svg?branch=master)](https://coveralls.io/github/Fazendaaa/MDNSearch?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c6069aecd89bb086265c/maintainability)](https://codeclimate.com/github/Fazendaaa/MDNSearch/maintainability)
