@@ -1,6 +1,7 @@
 src
 others
 node_modules
+coverage
 ci
 .gitignore
 jest.config.json
