@@ -1,0 +1,36 @@
+{
+  "name": "MDNSearch",
+  "version": "1.0.0",
+  "description": "A NPM package that searches the Mozilla Developer Network website.",
+  "main": "node dist/main.js",
+  "scripts": {
+    "bot": "node dist/main.js",
+    "test": "jest --config jest.config.json --ci --runInBand",
+    "build": "tsc",
+    "watch": "tsc -w",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fazendaaa/MDNSearch.git"
+  },
+  "keywords": [
+      "npm",
+      "mdn",
+      "mozilla",
+      "search"
+  ],
+  "author": "https://github.com/Fazendaaa/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fazendaaa/MDNSearch/issues"
+  },
+  "homepage": "https://github.com/Fazendaaa/MDNSearch#readme",
+  "devDependencies": {
+    "@types/jest": "^23.0.0",
+    "@types/node": "^10.3.1",
+    "ts-jest": "^22.4.6",
+    "tslint": "^5.10.0",
+    "tslint-microsoft-contrib": "^5.0.3",
+    "typescript": "^2.9.1"
+  }
+}
