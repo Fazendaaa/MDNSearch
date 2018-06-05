@@ -28,7 +28,9 @@
         "interface-name": false,
         "semicolon": false,
         "no-unnecessary-semicolons": false,
-        "no-return-await": false
+        "no-return-await": false,
+        "no-single-line-block-comment": false,
+        "mocha-unneeded-done": false
     },
     "rulesDirectory": []
 }

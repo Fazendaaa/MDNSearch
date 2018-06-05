@@ -1,0 +1,430 @@
+{
+    "test": "Search array, topics api and css",
+    "input": {
+        "term": "Array",
+        "topics": [
+            "api",
+            "css"
+        ]
+    },
+    "output": {
+        "query": "Array",
+        "locale": "en-US",
+        "page": 1,
+        "pages": 157,
+        "start": 1,
+        "end": 10,
+        "next": "https://developer.mozilla.org/en-US/search.json?locale=en-US&page=2&q=Array&topic=api&topic=css",
+        "previous": null,
+        "count": 1569,
+        "filters": [
+            {
+                "name": "Topics",
+                "slug": "topic",
+                "options": [
+                    {
+                        "name": "APIs and DOM",
+                        "slug": "api",
+                        "count": 1493,
+                        "active": true,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=css"
+                        }
+                    },
+                    {
+                        "name": "Add-ons & Extensions",
+                        "slug": "addons",
+                        "count": 235,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=addons",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "CSS",
+                        "slug": "css",
+                        "count": 79,
+                        "active": true,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api"
+                        }
+                    },
+                    {
+                        "name": "Canvas",
+                        "slug": "canvas",
+                        "count": 53,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=canvas",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "Firefox",
+                        "slug": "firefox",
+                        "count": 63,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=firefox",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "Firefox OS",
+                        "slug": "firefox-os",
+                        "count": 155,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=firefox-os",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "Games",
+                        "slug": "games",
+                        "count": 54,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=games",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "HTML",
+                        "slug": "html",
+                        "count": 91,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=html",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "HTTP",
+                        "slug": "http",
+                        "count": 14,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=http",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "JavaScript",
+                        "slug": "js",
+                        "count": 713,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=js",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "Marketplace",
+                        "slug": "marketplace",
+                        "count": 3,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=marketplace",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "MathML",
+                        "slug": "mathml",
+                        "count": 5,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=mathml",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "Mobile",
+                        "slug": "mobile",
+                        "count": 41,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=mobile",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "Open Web Apps",
+                        "slug": "apps",
+                        "count": 22,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=apps",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "SVG",
+                        "slug": "svg",
+                        "count": 11,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=svg",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "Web Development",
+                        "slug": "webdev",
+                        "count": 10,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=webdev",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "WebExtensions",
+                        "slug": "webext",
+                        "count": 152,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=webext",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "WebGL",
+                        "slug": "webgl",
+                        "count": 281,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=webgl",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "Writing Documentation",
+                        "slug": "docs",
+                        "count": 29,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=docs",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "XPCOM",
+                        "slug": "xpcom",
+                        "count": 165,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=xpcom",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    },
+                    {
+                        "name": "XUL",
+                        "slug": "xul",
+                        "count": 28,
+                        "active": false,
+                        "urls": {
+                            "active": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css&topic=xul",
+                            "inactive": "/en-US/search.json?locale=en-US&q=Array&topic=api&topic=css"
+                        }
+                    }
+                ]
+            }
+        ],
+        "documents": [
+            {
+                "id": 11743,
+                "title": "PluginArray",
+                "slug": "Web/API/PluginArray",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/PluginArray",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/PluginArray$edit",
+                "excerpt": "The PluginArray interface is used to store a list of Plugin objects describing the available plugins; it's returned by the window.navigator.plugins property. The PluginArray is not a JavaScript array, but has the length property and supports accessing individual items using bracket notation (plugins[2]), as well as via item(index) and namedItem(\"name\") methods.",
+                "tags": [
+                    "API",
+                    "NeedsContent",
+                    "Experimental",
+                    "Plugins",
+                    "DOM",
+                    "Add-ons"
+                ],
+                "score": 5.357495,
+                "parent": {}
+            },
+            {
+                "id": 126787,
+                "title": "ArrayBufferView",
+                "slug": "Web/API/ArrayBufferView",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/ArrayBufferView$edit",
+                "excerpt": "ArrayBufferView is a helper type representing any of the following JavaScript TypedArray types:",
+                "tags": [
+                    "API",
+                    "Interface",
+                    "Reference",
+                    "Référence(2)",
+                    "JavaScript",
+                    "Typed Arrays"
+                ],
+                "score": 4.7940087,
+                "parent": {}
+            },
+            {
+                "id": 179452,
+                "title": "ANGLE_instanced_arrays.drawArraysInstancedANGLE()",
+                "slug": "Web/API/ANGLE_instanced_arrays/drawArraysInstancedANGLE",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/ANGLE_instanced_arrays/drawArraysInstancedANGLE",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/ANGLE_instanced_arrays/drawArraysInstancedANGLE$edit",
+                "excerpt": "The ANGLE_instanced_arrays.drawArraysInstancedANGLE() method of the WebGL API renders primitives from array data like the gl.drawArrays() method. In addition, it can execute multiple instances of the range of elements.",
+                "tags": [
+                    "API",
+                    "Reference",
+                    "WebGL",
+                    "WebGL extension",
+                    "ANGLE_instanced_arrays",
+                    "Method"
+                ],
+                "score": 4.5800443,
+                "parent": {}
+            },
+            {
+                "id": 144307,
+                "title": "Body.arrayBuffer()",
+                "slug": "Web/API/Body/arrayBuffer",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/Body/arrayBuffer",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/Body/arrayBuffer$edit",
+                "excerpt": "The arrayBuffer() method of the Body mixin takes a Response stream and reads it to completion. It returns a promise that resolves with an ArrayBuffer.",
+                "tags": [
+                    "API",
+                    "ArrayBuffer",
+                    "Reference",
+                    "Experimental",
+                    "Référence(2)",
+                    "Fetch",
+                    "Expérimental(2)",
+                    "BODY",
+                    "Method"
+                ],
+                "score": 4.5543966,
+                "parent": {}
+            },
+            {
+                "id": 178934,
+                "title": "ANGLE_instanced_arrays",
+                "slug": "Web/API/ANGLE_instanced_arrays",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/ANGLE_instanced_arrays",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/ANGLE_instanced_arrays$edit",
+                "excerpt": "The ANGLE_instanced_arrays extension is part of the WebGL API and allows to draw the same object, or groups of similar objects multiple times, if they share the same vertex data, primitive count and type.",
+                "tags": [
+                    "WebGL extension",
+                    "API",
+                    "WebGL",
+                    "Reference"
+                ],
+                "score": 4.514593,
+                "parent": {}
+            },
+            {
+                "id": 218285,
+                "title": "MimeTypeArray",
+                "slug": "Web/API/MimeTypeArray",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/MimeTypeArray",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/MimeTypeArray$edit",
+                "excerpt": "The MimeTypeArray interface returns an array of MimeType instances, each of which contains information about a supported browser plugins. This object is returned by NavigatorPlugins.mimeTypes.",
+                "tags": [
+                    "API",
+                    "Interface",
+                    "Reference",
+                    "mimeType"
+                ],
+                "score": 4.503687,
+                "parent": {}
+            },
+            {
+                "id": 179698,
+                "title": "OES_vertex_array_object.isVertexArrayOES()",
+                "slug": "Web/API/OES_vertex_array_object/isVertexArrayOES",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/OES_vertex_array_object/isVertexArrayOES",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/OES_vertex_array_object/isVertexArrayOES$edit",
+                "excerpt": "The OES_vertex_array_object.isVertexArrayOES() method of the WebGL API returns true if the passed object is a WebGLVertexArrayObject object.",
+                "tags": [
+                    "API",
+                    "Reference",
+                    "WebGL",
+                    "VAO",
+                    "WebGL extension",
+                    "Method"
+                ],
+                "score": 4.12107,
+                "parent": {}
+            },
+            {
+                "id": 179696,
+                "title": "OES_vertex_array_object.deleteVertexArrayOES()",
+                "slug": "Web/API/OES_vertex_array_object/deleteVertexArrayOES",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/OES_vertex_array_object/deleteVertexArrayOES",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/OES_vertex_array_object/deleteVertexArrayOES$edit",
+                "excerpt": "The OES_vertex_array_object.deleteVertexArrayOES() method of the WebGL API deletes a given WebGLVertexArrayObject object.",
+                "tags": [
+                    "API",
+                    "Reference",
+                    "WebGL",
+                    "VAO",
+                    "WebGL extension",
+                    "Method"
+                ],
+                "score": 4.0684824,
+                "parent": {}
+            },
+            {
+                "id": 179700,
+                "title": "OES_vertex_array_object.bindVertexArrayOES()",
+                "slug": "Web/API/OES_vertex_array_object/bindVertexArrayOES",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/OES_vertex_array_object/bindVertexArrayOES",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/OES_vertex_array_object/bindVertexArrayOES$edit",
+                "excerpt": "The OES_vertex_array_object.bindVertexArrayOES() method of the WebGL API binds a passed WebGLVertexArrayObject object to the buffer.",
+                "tags": [
+                    "API",
+                    "Reference",
+                    "WebGL",
+                    "VAO",
+                    "WebGL extension",
+                    "Method"
+                ],
+                "score": 4.065225,
+                "parent": {}
+            },
+            {
+                "id": 179694,
+                "title": "OES_vertex_array_object.createVertexArrayOES()",
+                "slug": "Web/API/OES_vertex_array_object/createVertexArrayOES",
+                "locale": "en-US",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/OES_vertex_array_object/createVertexArrayOES",
+                "edit_url": "https://developer.mozilla.org/en-US/docs/Web/API/OES_vertex_array_object/createVertexArrayOES$edit",
+                "excerpt": "The OES_vertex_array_object.createVertexArrayOES() method of the WebGL API creates and initializes a WebGLVertexArrayObject object that represents a vertex array object (VAO) pointing to vertex array data and which provides names for different sets of vertex data.",
+                "tags": [
+                    "API",
+                    "Reference",
+                    "WebGL",
+                    "VAO",
+                    "WebGL extension",
+                    "Method"
+                ],
+                "score": 4.060455,
+                "parent": {}
+            }
+        ]
+    }
+}
