@@ -1,4 +1,4 @@
-# MDNSearch
+# MDN Search Docs
 Um package do NPM que faz buscas no site da [Mozilla Developer Network](https://developer.mozilla.org/).
 
 <div align = "center">
@@ -30,7 +30,7 @@ Um jeito simples the fazer pesquisas de conteúdo no MDN. Eu apenas escrevi esse
 Examples:
 
 ``` typescript
-import { searchMDN } from 'MDNSearch';
+import { searchMDN } from 'mdn-search-docs';
 
 searchMDN({ term: 'Array' }).then(console.log);
 searchMDN({ term: 'Array', locale: 'pt-BR' }).then(console.log);

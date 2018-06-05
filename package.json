@@ -1,5 +1,5 @@
 {
-  "name": "MDNSearch",
+  "name": "mdn-search-docs",
   "version": "1.0.0",
   "description": "A NPM package that searches the Mozilla Developer Network website.",
   "main": "node dist/main.js",
@@ -17,7 +17,8 @@
     "npm",
     "mdn",
     "mozilla",
-    "search"
+    "search",
+    "docs"
   ],
   "author": "https://github.com/Fazendaaa/",
   "license": "MIT",
