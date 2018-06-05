@@ -1,8 +1,8 @@
-src
-others
-node_modules
-coverage
 ci
+coverage
+node_modules
+others
+src
 .gitignore
 .travis.yml
 jest.config.json

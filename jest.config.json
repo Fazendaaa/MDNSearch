@@ -2,7 +2,8 @@
     "name": "MDNSearch",
     "globals": {
         "ts-jest": {
-            "enableTsDiagnostics": true
+            "enableTsDiagnostics": true,
+            "tsConfigFile": "./tsconfig.json"
         }
     },
     "verbose": true,
