@@ -14,10 +14,10 @@
     "url": "git+https://github.com/Fazendaaa/MDNSearch.git"
   },
   "keywords": [
-      "npm",
-      "mdn",
-      "mozilla",
-      "search"
+    "npm",
+    "mdn",
+    "mozilla",
+    "search"
   ],
   "author": "https://github.com/Fazendaaa/",
   "license": "MIT",
@@ -28,6 +28,7 @@
   "devDependencies": {
     "@types/jest": "^23.0.0",
     "@types/node": "^10.3.1",
+    "coveralls": "^3.0.1",
     "ts-jest": "^22.4.6",
     "tslint": "^5.10.0",
     "tslint-microsoft-contrib": "^5.0.3",
