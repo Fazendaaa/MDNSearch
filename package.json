@@ -1,6 +1,6 @@
 {
   "name": "mdn-search-docs",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "A NPM package that searches the Mozilla Developer Network website.",
   "main": "./main.js",
   "scripts": {
