@@ -5,7 +5,7 @@
 
 import { readFileSync } from 'fs';
 import { join } from 'path';
-import { MDNContext, MDNResponse, searchMDN } from '../../src/main';
+import { MDNContext, MDNResponse, searchMDN } from '../../src/index';
 
 interface Input {
     test: string;
